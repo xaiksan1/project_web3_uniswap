@@ -20,7 +20,7 @@
     "@ethersproject/contracts": "^5.6.0",
     "@ethersproject/providers": "^5.6.0",
     "@testing-library/dom": "^8.11.3",
-    "@testing-library/jest-dom": "^5.16.2",
+    "@testing-library/jest-dom": "^6.1.6",
     "@testing-library/react": "^12.1.4",
     "@testing-library/user-event": "^13.5.0",
     "@types/react": "^17.0.40",
@@ -28,14 +28,14 @@
     "ipfs-deploy": "^11.2.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",
-    "react-scripts": "4.0.3",
-    "styled-components": "^5.3.3",
+    "react-scripts": "5.0.0",
+    "styled-components": "^6.1.0",
     "@usedapp/core": "^1.1.5",
     "@uniswap/sdk": "^3.0.2",
     "@uniswap/v2-core": "^1.0.1",
     "@uniswap/v2-periphery": "^1.1.0-beta.0",
     "ethers": "^5.7.0",
-    "web3": "^1.7.5"
+    "web3": "^4.0.1"
   },
   "eslintConfig": {
     "extends": [
